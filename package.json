@@ -1,0 +1,12 @@
+{
+  "name": "array-alchemy",
+  "version": "1.0.0",
+  "description": "A powerful JavaScript utility library built for modularity, performance, and advanced functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tayyab Siraj",
+  "license": "ISC"
+}
